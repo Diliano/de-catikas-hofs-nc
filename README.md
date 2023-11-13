@@ -1,3 +1,3 @@
 # de-catikas-hofs
 
-Instructions for this repo can be found at: https://l2c.northcoders.com/courses/....
+Instructions for this repo can be found at: https://l2c.northcoders.com/courses//de2-fun/testing-hofs
