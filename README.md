@@ -1,3 +1,5 @@
-# de-catikas-hofs
+# Data Engineering Bootcamp - Higher-Order Functions
 
-Instructions for this repo can be found at: https://l2c.northcoders.com/courses/de2-fun/testing-hofs
+## Overview
+
+This repository contains work completed as part of the Higher-Order Functions Sprint during my Data Engineering Bootcamp. 
